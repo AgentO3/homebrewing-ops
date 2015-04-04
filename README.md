@@ -39,6 +39,11 @@
 
 Community driven effort to spec and build a DIY automated homebrewing system. 
 
+### Inspired by
+
+- Open Compute Project
+- Hack Framing
+
 ## Goals
 
 - Innovation is greater than efficiency
