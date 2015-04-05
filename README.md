@@ -33,7 +33,7 @@
 
 - MashTron
 - BoilTron
-- TermenTron
+- FermenTron
 
 ## Open Homebrewing Project
 
