@@ -41,8 +41,9 @@ Community driven effort to spec and build a DIY automated homebrewing system.
 
 ### Inspired by
 
-- Open Compute Project
-- Hack Framing
+- Open Compute Project [link](http://www.opencompute.org/)
+- Hack Framing [link](http://farmhack.org/)
+- Windowfarms [link](http://our.windowfarms.org/)
 
 ## Goals
 
